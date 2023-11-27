@@ -1,0 +1,21 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "This application will dynamically create a svg file with chosen characters, shape, and color",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
