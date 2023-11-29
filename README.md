@@ -49,7 +49,8 @@ Email: shanhun.codes@gmail.com
 
 ## Contributors
 
-N/A
+Chris Brewer - Student<br>
+Andrew Hudgins - TA
 
 ## Tests 
 
@@ -57,7 +58,7 @@ To test this application please install jest by running in the Terminal //~ npm 
 
 To launch the test run in terminal //~ npm test
 
-This command will run three tests which should pass checking that text and color will be inserted into the SVG Logo correctly.
+This command will run two suite tests, one containing 1test and the other suite containing 3tests. Which will pass that the text and text color will be inserted into the SVG Logo correctly and the shape will be created correctly.
 
 There will also be a testing section at the end of the [video tutorial](#video-tutorial).
 
@@ -75,14 +76,13 @@ In this project I learnt that testing is important in the beginning of a project
 
 ## Code in JavaScript index:
 
-<ul>
-<li>Inquirer to prompt user</li>
-<li></li>
-<li></li>
+Inquirer to prompt user<br>
+Function to set text characters and color<br>
+Function to set shape choice
 
 ## Dependencies 
 
-inquirer@8.2.4
+inquirer@8.2.4<br>
 jest@29.7.0
 
 ## Link to live site:
@@ -95,9 +95,9 @@ jest@29.7.0
 
 ## Example Images:
 
-<img src="" width="300" height="300"> 
-<img src="" width="300" height="300"> 
-<img src="" width="300" height="300"> 
+<img src="./lib/images/triangle.jpeg" width="300" height="300"> 
+<img src="./lib/images/circle.jpeg" width="300" height="300"> 
+<img src="./lib/images/square.jpeg" width="300" height="300"> 
 
 ## License
 
